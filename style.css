@@ -1,0 +1,11 @@
+.left button:hover{
+color: white;
+background-color:rgba(71,10,104,255) ;
+border: 2px solid white !important;
+}
+
+.card button:hover{
+    color: black;
+    background-color:darkblue ;
+    border: 2px solid white !important;
+    }

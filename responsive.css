@@ -1,0 +1,38 @@
+@media only screen and (max-width:620px){
+    .logo{
+        margin-left: 20px !important;
+    }
+.navy{
+    gap: 0px !important;
+    display: flex !important;
+    padding-left: 20px;
+}
+
+
+.righty{
+    margin-top: 100px !important;
+}
+
+.img-con{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.startes p{
+width: 400px;
+font-size: 16px !important;
+}
+
+
+.cards-pro{
+    display: flex;
+flex-direction: column;}
+
+
+
+
+
+}
